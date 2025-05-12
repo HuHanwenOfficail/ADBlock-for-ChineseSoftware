@@ -104,13 +104,14 @@
 ||dt.netease.im^$important
 ||api.crush.163.com^$important
 ||https://ac.dun.163yun.com^$important
+||ac.dun.163yun.com^$important
 ||qiezibenpao.com^$important
-||1251413404.vod2.myqcloud.com^$important
+||vod2.myqcloud.com^$important
 ||dpool.sina.com.cn^$important
 ||wblive-out.api.weibo.com^$important
 ||new.vip.weibo.cn^$important
 ||weiboimgwx.grid.sinaedge.com^$important
-||https://m.weibo.cn/c/checkin?ua=iPhone17%2C1__weibo__15.1.2__iphone__os18.3.1&from=10F1293010&hash=sign&luicode=20000301^$important
+||m.weibo.cn/c^$important
 ||m.weibo.cn^$important
 ||t.cn^$important
 ||s.weibo.com^$important
@@ -274,7 +275,7 @@
 ||cdn.sinacloud.net.w.cdngslb.com^$important
 ||plwb20.live.weibo.com^$important
 ||xinlang.sched.l8.tdnsv5.com^$important
-||n47yc0ab.sched.skalego-dk.tdnsstic1.cn^$important
+||sched.skalego-dk.tdnsstic1.cn^$important
 ||bluedot.is.autonavi.com.gds.alibabadns.com^$important
 ||chaohua.sinaimg.cn^$important
 ||api.revenuecat.com^$important
@@ -283,7 +284,6 @@
 ||paper.dev^$important
 ||ty-staticcos.sched.dma-dk.tdnsdl1.cn^$important
 ||www.tm.a.prd.aadg.akadns.net^$important
-|| wx.10086.cn^$important
 ||wx.10086.cn^$important
 ||dev.coc.10086.cn/coc/web2^$important
 ||dev.coc.10086.cn^$important
@@ -294,8 +294,6 @@
 ||tva1.sinaimg.cn^$important
 ||wbox2.sinaimg.cn^$important
 ||tvax3.sinaimg.cn^$important
-||api.weibo.cn^$important
-||ocsp2.apple.com^$important
 ||plwb21.live.weibo.com^$important
 ||wosms.cn^$important
 ||21cn.com^$important
@@ -304,11 +302,9 @@
 ||nytimes.com^$important
 ||s.weibo.com^$important
 ||h5.sinaimg.cn^$important
-|| https://m.weibo.com^$important
+||m.weibo.com^$important
 ||m.weibo.cn^$important
 ||_dns.resolver.arpa^$important
 ||https://m.weibo.cn/c^$important
 ||m.weibo.cn
-||weibo.cn^$important
-||weibo.com^$important
 ||open.e.189.cn^$important
