@@ -97,7 +97,6 @@
 ||p2.music.126.net^$important
 ||httpdns.music.ntes53.netease.com^$important
 ||a1.alibabausercontent.com.w.cdngslb.com^$important
-||music.ntes53.netease.com^$important
 ||bdsa.cdnbuild.net^$important
 ||api.k.163.com^$important
 ||only-271165-183-222-236-56.nstool.321fenx.com^$important
